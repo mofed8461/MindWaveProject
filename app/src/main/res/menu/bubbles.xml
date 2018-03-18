@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".bubblesActivity">
+
+    <item
+        android:id="@+id/feeling_pain"
+        android:icon="@drawable/pain"
+        android:orderInCategory="102"
+        android:title="@string/feeling_pain"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/share_emotions"
+        android:icon="@drawable/happy"
+        android:orderInCategory="103"
+        android:title="@string/share_emotions"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/MuteUnmute"
+        android:icon="@drawable/mute"
+        android:orderInCategory="104"
+        android:title="@string/Mute"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/ChangeColor"
+        android:icon="@drawable/color"
+        android:orderInCategory="105"
+        android:title="@string/Color"
+        app:showAsAction="never" />
+
+</menu>

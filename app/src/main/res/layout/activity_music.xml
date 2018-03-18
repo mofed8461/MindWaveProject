@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.oscarsalguero.eegstarter.musicActivity">
+
+    <Button
+        android:id="@+id/stop_play_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/StopPlay"/>
+
+    <RadioGroup
+        android:id="@+id/group"
+        android:layout_below="@id/stop_play_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/tune1_radio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/tune1" />
+        <!--android:layout_below="@id/tune1_radio"-->
+
+        <RadioButton
+            android:id="@+id/tune2_radio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tune2"/>
+    </RadioGroup>
+
+    <LinearLayout
+        android:id="@+id/group2"
+        android:layout_below="@id/group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+
+        android:weightSum="2">
+
+
+        <ImageButton
+            android:id="@+id/emotions"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:background="@drawable/happy" />
+
+        <ImageButton
+            android:id="@+id/pain"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:background="@drawable/pain" />
+
+    </LinearLayout>
+
+    <Button
+        android:layout_below="@id/group2"
+        android:id="@+id/backButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/back"/>
+
+</RelativeLayout>

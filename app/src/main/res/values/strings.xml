@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">MindWave</string>
+
+    <string name="action_connect">Connect</string>
+    <string name="action_about">About</string>
+
+    <string name="device_low_battery">Low battery!</string>
+    <string name="device_poor_signal">Poor signal: </string>
+
+    <string name="label_strength">Connection Strength:</string>
+    <string name="label_levels">MindWave Levels</string>
+    <string name="label_attention">Attention:</string>
+    <string name="label_meditation">Meditation:</string>
+    <string name="label_heart_rate">Heart Rate:</string>
+    <string name="label_blink">Blink:</string>
+    <string name="label_raw_data">Raw Data:</string>
+
+    <string name="value_zero">0</string>
+
+    <string name="git_hub_repo_url">https://github.com/RacZo/EEGStarter</string>
+
+    <string name="bluetooth_not_available">Bluetooth not available!</string>
+
+
+    <string name="MinAttention">Min Attention:</string>
+    <string name="MaxAttention">Max Attention:</string>
+    <string name="MinMeditation">Min Meditation:</string>
+    <string name="MaxMeditation">Max Meditation:</string>
+    <string name="use_sms">Notify by SMS</string>
+    <string name="use_phone_call">Notify by phone call</string>
+    <string name="low_concentration_msg">Low concentration, enough training</string>
+    <string name="high_concentration_msg">High concentration, ready to start training</string>
+    <string name="feeling_pain">I\'m Feeling pain</string>
+    <string name="share_emotions">I want to share my emotions</string>
+    <string name="contact_settings">Contact Settings</string>
+    <string name="done">Done</string>
+    <string name="NotificationPhone">Notification Phone</string>
+    <string name="MotherPhone">Mother Phone</string>
+    <string name="FatherPhone">Father Phone</string>
+    <string name="TrainerPhone">Trainer Phone</string>
+    <string name="callMother">Call my mother</string>
+    <string name="callFather">Call my father</string>
+    <string name="callTrainer">Call my trainer</string>
+    <string name="no_sms_permission">Please enable sms permission from Settings > Apps > MindWave > Permissions > Send SMS</string>
+    <string name="no_call_permission">Please enable call permission from Settings > Apps > MindWave > Permissions > Phone Call</string>
+    <string name="no_num">No Phone number provided</string>
+
+
+
+    <string name="Color">Change Color</string>
+
+    <string name="Mute">Mute</string>
+    <string name="Unmute">Unmute</string>
+
+    <string name="PreferMusic">Prefer Music</string>
+
+    <string name="PreferBubblesAndColor">Prefer Bubbles and Colors</string>
+
+    <string name="Random">Random</string>
+
+    <string name="StopPlay">Stop/Play</string>
+
+    <string name="tune1">Tune 1</string>
+    <string name="tune2">Tune 2</string>
+
+    <string name="back">Back</string>
+    <string name="Music">Distraction screen</string>
+    <string name="SelectionGame">Focus screen</string>
+    <string name="BubbleColorGame">Bubbles and Colors</string>
+    <string name="Settings">Settings</string>
+
+
+
+</resources>

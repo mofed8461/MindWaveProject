@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">موجات الدماغ</string>
+
+    <string name="action_connect">اشبك</string>
+    <string name="action_about">حول البرنامج</string>
+
+    <string name="device_low_battery">البطاريه ضعيفه!</string>
+    <string name="device_poor_signal">الاشارة ضعيفه: </string>
+
+    <string name="label_strength">قوة اللقط:</string>
+    <string name="label_levels">درجات التفكير</string>
+    <string name="label_attention">التركيز:</string>
+    <string name="label_meditation">التأمل:</string>
+    <string name="label_heart_rate">دقات القلب:</string>
+    <string name="label_blink">العين:</string>
+    <string name="label_raw_data">معلومات:</string>
+
+    <string name="value_zero">0</string>
+
+    <string name="bluetooth_not_available">البلوتوث غير متوفر بالجهاز!</string>
+
+
+    <string name="MinAttention">ادنى للتركيز:</string>
+    <string name="MaxAttention">اعلى تركيز:</string>
+    <string name="MinMeditation">ادنى تأمل:</string>
+    <string name="MaxMeditation">اعلى تأمل:</string>
+    <string name="use_sms">استخدم الرسائل للاشعارات</string>
+    <string name="use_phone_call">استخدم المكالمات للاشعارات</string>
+    <string name="low_concentration_msg">التركيز ضعيف، يكفي تدريب</string>
+    <string name="high_concentration_msg">التركيز عالي، يمكنك البدأ بالتدريب</string>
+    <string name="feeling_pain">اشعر بالالم</string>
+    <string name="share_emotions">اريد ان اعبر عن احساسي</string>
+    <string name="contact_settings">اعدادات الاتصال</string>
+    <string name="done">تم</string>
+
+    <string name="NotificationPhone">رقم المستقبل للاشعارات</string>
+    <string name="MotherPhone">رقم الام</string>
+    <string name="FatherPhone">رقم الاب</string>
+    <string name="TrainerPhone">رقم المدرب</string>
+
+    <string name="callMother">اتصل بأمي</string>
+    <string name="callFather">اتصل بأبي</string>
+    <string name="callTrainer">اتصل بالمدرب</string>
+    <string name="no_sms_permission">الرجاء قبول الرسائل من خلال الاعدادات > تطبيقات > MindWave > تصاريح > سماح بالرسائل </string>
+    <string name="no_call_permission">الرجاء قبول الرسائل من خلال الاعدادات > تطبيقات > MindWave > تصاريح > سماح بالمكالمات</string>
+    <string name="no_num">لا يوجد رقم</string>
+
+
+    <string name="Color">تغيير اللون</string>
+
+    <string name="Mute">صامت</string>
+    <string name="Unmute">عالي</string>
+
+    <string name="PreferMusic">افضل الموسيقى</string>
+    <string name="PreferBubblesAndColor">افضل الالوان و الفقاعات</string>
+    <string name="Random">عشوائي</string>
+    <string name="StopPlay">ايقاف/تشغيل</string>
+
+    <string name="tune1">النغمة 1</string>
+    <string name="tune2">النغمة 2</string>
+    <string name="back">رجوع</string>
+    <string name="Music">شاشه التشتت</string>
+    <string name="SelectionGame">شاشه التركيز</string>
+    <string name="BubbleColorGame">شاشه الفقاعات</string>
+    <string name="Settings">الاعدادات</string>
+
+
+
+</resources>
