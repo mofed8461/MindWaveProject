@@ -68,6 +68,8 @@
     <string name="SelectionGame">Focus screen</string>
     <string name="BubbleColorGame">Bubbles and Colors</string>
     <string name="Settings">Settings</string>
+    <string name="helpText">Dear user Welcome to our application We would like to give you some guidance to take advantage of when you use the application You should know at the outset that the application is characterized as an Arabic language and English is a special application for children Autism spectrum disorder as the application is linked with the piece of Wave Wave by Bluetooth is taken Readings from the piece of Mind Wave, analyzing and interpreting them and then moving to one of the screens either the screen of the focus or screen dispersion based on the readings received by the application and there are other screens in the application are used either to contact a parent or coach responsible for the child or send messages to him These messages contain the child inside the case that was in the case of concentration or dispersion And another screen, which is a bubble screen to reduce the proportion of dispersion in the child hope you have benefited from these guidelines and learned the importance and beauty of application</string>
+    <string name="Help">Help</string>
 
 
 

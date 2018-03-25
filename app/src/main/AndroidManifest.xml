@@ -41,6 +41,7 @@
         <activity android:name=".musicActivity" />
         <activity android:name=".bubblesActivity" />
         <activity android:name=".PECSCallActivity" />
+        <activity android:name=".HelpActivity" />
     </application>
 
 </manifest>
